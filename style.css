@@ -413,10 +413,11 @@ td{
         font-size: 3rem;
     }
     .carousel-caption h1 {
-        font-size: 7rem;
+        font-size: 5rem;
     }
     .carousel-caption p {
-        font-size: 2rem;
+        font-size: 1.6rem;
+        width: 50ch;
     }
   }
   
