@@ -8,11 +8,12 @@ html{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
+    overflow-x: hidden;
 }
 body{
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
     background-color: #141519;
-    overflow-x: hidden;
+
 }
 :root{
     --color-primary:#fe6a17;
